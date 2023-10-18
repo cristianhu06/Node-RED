@@ -51,5 +51,18 @@
                 "f09fa01cb8bffad7"
             ]
         ]
+    },
+    {
+        "id": "8e8877fa7be2b1fa",
+        "type": "catch",
+        "z": "d0fcab3e063f74f0",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 600,
+        "y": 320,
+        "wires": [
+            []
+        ]
     }
 ]
